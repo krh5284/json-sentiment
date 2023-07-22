@@ -1,3 +1,8 @@
+Kellie Heckman, 22JUL23
+Webmining and Applied NLP
+This project uses Spacy TextBlob to analyze song lyrics. This demonstrates the ability to work with JSON files and TextBlob NLP
+
+
 # Requests, JSON, and basic NLP with spaCy
 
 Complete the tasks in the Python Notebook in this repository.
